@@ -1,5 +1,6 @@
 ---
-  - src: git@github.com:netology-code/mnt-homeworks-ansible.git
+  #- src: git@github.com:netology-code/mnt-homeworks-ansible.git
+  - src: git@github.com:kaa-ansible/mnt-homeworks-ansible.git
   #https://github.com/kaa-jenkins/mnt-homeworks-ansible.git
     #git@github.com:netology-code/mnt-homeworks-ansible.git
     scm: git
